@@ -1,7 +1,7 @@
 ## Ciao, I'm Ishan Wadhwani! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25">
 
-- 🔭 I’m currently working on my Python, Kotlin skills 
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on my Python skills.
+- 🌱 I’m currently learning Python, Django.
 - 👯 I’m looking to collaborate on Python/SQL based projects
 - 💬 Ask me about tech related stuffs / tv series and shows :)
 - 📫 How to reach me:<a href="https://www.instagram.com/ishan_wadhwani129/"> Instagram </a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDCdQslLWMXfklCwsNsdLwhcChXtQrZSrqfRrqzvcwJlfVQkpGnNNdJNrrqqcjspQCJdV"> Gmail </a>
