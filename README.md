@@ -12,6 +12,7 @@
 <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanwadhwani&layout=compact">
 
 
+
 <img align = "left" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 <img align = "left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img align = "left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -20,6 +21,7 @@
 <img align = "left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img align = "left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img align = "left" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+<img align = "left" width="14%" src="https://badges.aleen42.com/src/tailwindcss.svg">
 
 
 
