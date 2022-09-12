@@ -27,7 +27,6 @@
 <img align = "left" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 <img align = "left" width="14%" src="https://badges.aleen42.com/src/tailwindcss.svg">
 
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ishan&label=Profile%20Views&icon=2&pretty=true" /></a>
 
 
 
