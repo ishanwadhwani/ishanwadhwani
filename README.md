@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Python skills.
 - 🌱 I’m currently learning Python, Django.
-- 👯 I’m looking to collaborate on Python/SQL based projects
+- 👯 I’m looking to collaborate on Reactjs and Tailwind CSS  based projects
 - 💬 Ask me about tech related stuffs / tv series and shows :)
 - 📫 How to reach me:<a href="https://www.instagram.com/ishan_wadhwani129/"> Instagram </a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDCdQslLWMXfklCwsNsdLwhcChXtQrZSrqfRrqzvcwJlfVQkpGnNNdJNrrqqcjspQCJdV"> Gmail </a>
 - ⚡ Fun Question: What your last meal on Earth would be?
