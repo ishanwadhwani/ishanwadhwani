@@ -8,6 +8,10 @@
 - ⚡ Fun Question: What your last meal on Earth would be?
 
 
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ishan&label=Profile%20Views&icon=2&pretty=true" /></a>
+
+
+
 <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=ishanwadhwani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanwadhwani&layout=compact">
 
@@ -22,6 +26,8 @@
 <img align = "left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img align = "left" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 <img align = "left" width="14%" src="https://badges.aleen42.com/src/tailwindcss.svg">
+
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ishan&label=Profile%20Views&icon=2&pretty=true" /></a>
 
 
 
