@@ -1,5 +1,5 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Ciao <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25">, I'm Ishan Wadhwani</h1>
+<h1 align="center">Ciao! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25">, I'm Ishan Wadhwani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding img" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
