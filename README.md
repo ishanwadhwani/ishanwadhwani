@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwadhwani&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwadhwani" /> </p>
 
-- 🔭 I’m currently working on **DS Classroom**
+- 🔭 I’m currently working on **Projects related to data science**
 
-- 🌱 I’m currently learning **Django and Kotlin**
+- 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on **React JS and Tailwind CSS**
+- 👯 I’m looking to collaborate on **React JS and Tailwind CSS projects**
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **ReactJs, Python, NextJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
