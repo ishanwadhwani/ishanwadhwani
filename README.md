@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on **React JS and Tailwind CSS projects**
+- 👯 I’m looking to collaborate on **Web/App Development projects**
 
 - 💬 Ask me about **ReactJs, Python, NextJs**
 
