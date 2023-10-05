@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Projects related to data science**
 
-- 🌱 I’m currently learning **MongoDB**
-
 - 👯 I’m looking to collaborate on **Web/App Development projects**
 
 - 💬 Ask me about **ReactJs, Python, NextJs**
