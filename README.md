@@ -115,14 +115,12 @@ const ishan: Engineer = {
 
 ---
 
-### 🏆 Certifications
-
-<div align="center">
+<!-- <div align="center">
 
 ![SnowPro Core](https://img.shields.io/badge/SnowPro%20Core-Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Claude Certified Architect](https://img.shields.io/badge/Claude%20Certified-Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-</div>
+</div> -->
 
 ---
 
@@ -132,7 +130,7 @@ const ishan: Engineer = {
 
 <a href="mailto:iwadhwani029@gmail.com"><img src="https://img.shields.io/badge/Reach_out-38BDAE?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Reach out"/></a>
 
-<br/><br/>
+<br/>
 
 <i>"Turning SQL chaos into shipped software."</i>
 
