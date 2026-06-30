@@ -135,29 +135,9 @@ drwxr-xr-x  ishan  staff   invoice-generator/  # single-session invoicing, live 
 -->
 <img width="95%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar"/>
 
-</div>
-
-## `$ ./play.sh`  — ♟️ play me at chess
-
-Visitors can actually play chess against the world, right from my profile — every move opens a pre-filled issue and a GitHub Action updates the board.
+<br/><br/>
 
 <div align="center">
-
-<!--
-  SETUP (one-time): this game is powered by an Action.
-  1. Go to github.com/timburgan/timburgan and copy its `.github/workflows/`
-     chess files + the `_data/` board state into THIS repo.
-  2. Paste the board + move-link block that the Action generates here.
-  The Action regenerates this whole section after every move.
--->
-
-*♟️ Board loads here once the chess Action is installed — see the HTML comment above for the 2-minute setup.*
-
-</div>
-
-<div align="center">
-
-## `$ ./connect.sh`
 
 <a href="mailto:iwadhwani029@gmail.com"><img src="https://img.shields.io/badge/say_hello-39d353?style=for-the-badge&logo=minutemailer&logoColor=0d1117" alt="Reach out"/></a>
 
