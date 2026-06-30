@@ -1,29 +1,148 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Ciao! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25">, I'm Ishan Wadhwani</h1>
-<h3 align="center">A Tech Enthusiast from India</h3>
+<!--
+  ════════════════════════════════════════════════════════════════
+  SETUP NOTES (this block is invisible on GitHub — delete if you like)
+  1. Replace every "ishanwadhwani" below with your real GitHub username
+     if it differs. It appears in the stats widgets and social links.
+  2. The contribution-snake at the very bottom needs a GitHub Action.
+     Setup instructions are in the comment right above it.
+  3. Repo links point to github.com/ishanwadhwani/<repo> — fix the
+     repo names if they're different.
+  ════════════════════════════════════════════════════════════════
+-->
 
-<p align="left"> <video src="https://komarev.com/ghpvc/?username=ishanwadhwani&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwadhwani" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **CashFlow Management System tool**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=38BDAE&center=true&vCenter=true&width=720&height=70&lines=Hi%2C+I'm+Ishan+Wadhwani+%F0%9F%91%8B;Full-Stack+Engineer+%26+Data+Engineer;I+build+products%2C+pipelines+%26+clean+APIs;Turning+SQL+chaos+into+shipped+software" alt="Typing intro" />
 
-- 👯 I’m looking to collaborate on **Web/App Development projects**
+<br/>
 
-- 💬 Ask me about **NextJs, NodeJs, Python, SQL**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ishan-wadhwani-16a5b921b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan wadhwani" height="30" width="40" /></a>
-<a href="https://instagram.com/ishan_wadhwani129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishan_wadhwani129" height="30" width="40" /></a>
-<a href="https://leetcode.com/iwadhwani29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshi2104" height="30" width="40" /></a>
+<p>
+  <a href="mailto:iwadhwani029@gmail.com"><img src="https://img.shields.io/badge/Email-iwadhwani029@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/ishan-wadhwani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ishanwadhwani.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=ishanwadhwani&label=Profile+views&color=38bdae&style=flat-square" alt="Profile views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanwadhwani&show_icons=true&locale=en&layout=compact" alt="ishanwadhwani" /></p>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanwadhwani&show_icons=true&locale=en" alt="ishanwadhwani" /></p>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanwadhwani&" alt="ishanwadhwani" /></p>
+</div>
 
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
+
+```typescript
+const ishan: Engineer = {
+  role:      ["Data Engineer @ Accenture", "Full-Stack Builder"],
+  client:    "BHP",
+  location:  "India 🇮🇳",
+  stack:     ["TypeScript", "React/Next.js", "Node/Express", "Python", "SQL"],
+  data:      ["Snowflake", "Airflow", "AWS", "Power BI"],
+  focus:     "shipping real products end-to-end — UI to ETL",
+  currently: "building CashFlow Command — GST SaaS for Indian SMBs",
+};
+```
+
+
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Data & Cloud**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Built With |
+|---|---|---|
+| **[CashFlow Command](https://github.com/ishanwadhwani)** | GST-compliant invoicing & cashflow SaaS for Indian SMBs — invoices, expenses, payroll, vendor bills & GST reporting. | `Next.js 14` `TypeScript` `Express` `Prisma` `PostgreSQL` |
+| **[Depense](https://github.com/ishanwadhwani/depense)** | Personal & group expense tracker with bill-splitting for shared costs. | `Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` |
+| **[Invoice Generator](https://github.com/ishanwadhwani/invoice-generator)** | Single-session invoicing tool with live preview — cut repeat-user form time by **60%** via persisted biller details. | `Next.js` `TypeScript` `Node.js` `PostgreSQL` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishanwadhwani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanwadhwani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanwadhwani&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ishanwadhwani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+### 🏆 Certifications
+
+<div align="center">
+
+![SnowPro Core](https://img.shields.io/badge/SnowPro%20Core-Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Claude Certified Architect](https://img.shields.io/badge/Claude%20Certified-Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's build something
+
+<a href="mailto:iwadhwani029@gmail.com"><img src="https://img.shields.io/badge/Reach_out-38BDAE?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Reach out"/></a>
+
+<br/><br/>
+
+<i>"Turning SQL chaos into shipped software."</i>
+
+</div>
+
+<!--
+  OPTIONAL: Contribution-snake animation.
+  1. Create file:  .github/workflows/snake.yml  with the Platane/snk action.
+  2. It generates an SVG in the "output" branch.
+  3. Then uncomment the image block below.
+
+  <img src="https://raw.githubusercontent.com/ishanwadhwani/ishanwadhwani/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+-->
